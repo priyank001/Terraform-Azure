@@ -1,0 +1,16 @@
+Idempotence: do a work once to perform something, using machine.
+
+Immutability: Can not be alter, change.
+
+Encaplusation: software principle; It is just grouping a cohesive set of responsibility into a single component. 
+
+Cohesion: a part of sotware somponent, for a specific part of work.
+
+Declrative vs imparative: 
+	declarative is like eating in restauraent, choosing from menu, chef make, server serves.
+
+	Imparative: its like doing it by myself.
+
+DRY: Don't repeat yourself
+
+FInished till: 21 chapter

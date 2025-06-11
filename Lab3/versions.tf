@@ -21,5 +21,4 @@ terraform {
 provider "azurerm" {
   # Configuration options
   features {}
-  subscription_id = "ca42581a-d708-4048-82cd-d31f0421c8bf" # Replace with your Azure subscription ID
 }

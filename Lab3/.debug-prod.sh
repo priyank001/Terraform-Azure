@@ -1,5 +1,5 @@
 # Set the subscription
-export ARM_SUBSCRIPTION_ID="ca42581a-d708-4048-82cd-d31f0421c8bf"
+# Removed the ARM SUbscription ID for security reasons
 
 # Set the application/envrionment variables
 export TF_VAR_application_name="Priyank-App"

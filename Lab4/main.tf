@@ -24,6 +24,6 @@ data "azurerm_client_config" "myself" {
 
 resource "azurerm_role_assignment" "myself" {
   scope                = azurerm_key_vault.example.id
-  role_definition_name = "Reader"
+  role_definition_name = "Key Vault Administrator" # Assign the Key Vault Administrator role
   principal_id         = data.azurerm_client_config.myself.object_id # Use the object ID from the client config
 }
